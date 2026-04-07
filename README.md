@@ -389,5 +389,3 @@ Then run either:
 - **Maven:** Tool to build and manage Java projects.
 
 ---
-
-If you want, the next step can be a second README called `README_NON_TECH_GUIDE.md` with screenshots and a click-by-click user manual for customer support staff.
